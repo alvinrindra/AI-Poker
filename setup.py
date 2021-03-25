@@ -24,7 +24,7 @@ setup(
         'pypokerengine',
         'tornado==4.4.2',
         'click==6.7',
-        'PyYAML==3.12',
+        'PyYAML==5.4',
     ],
     entry_points={
         'console_scripts': ['pypokergui=pypokergui.__main__:cli']
